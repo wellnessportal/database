@@ -1,0 +1,43 @@
+[{
+  "_id": "Use promo code STAYFIT and get upto 20% off for every Kumbayah Kombucha product.",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Get a 1000 rupee gift voucher to shop at IKEA.",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "A four night family trip to Thailand",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Use the promo code GOHEALTHY and get a free meals at PVR cinema",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Use the promo code STAYCOMFY for a 2 days staycation at uday suites",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Free dinner for 1 at royal Travancore kitchen with the promo code EAT",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Shopping voucher at trends upto 1000 with the promo code PROFITSHOP",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Use the promo code TONI47SPA for a free spa session from toni and guy",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Get a skincare coupon upto 1500 from mamaearth with the promo code MAMACARE",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Get playarea coupon at funtura for 1 with the promo code LWWY03FUN",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Get a wonderla entry coupon with the promo code FUN@WONDERLA",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Get customised lehenga from lulu celebrate with the promo code SLAYURLEHENGA",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Use the promo code EAT@TACOBELL for free tacos upto 500 from tacobell",
+  "_class": "com.project.wellness.model.Rewards"
+},{
+  "_id": "Use the promo code ROLLS4LIFE for free a shawarma of your choice from Istanbul roll",
+  "_class": "com.project.wellness.model.Rewards"
+}]
