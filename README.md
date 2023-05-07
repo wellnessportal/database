@@ -1,3 +1,3 @@
 # database
 
-this hase the rewards database
+this has the rewards database
